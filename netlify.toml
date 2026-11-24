@@ -1,0 +1,4 @@
+# Static invitation page — no build step, files are served as-is.
+[build]
+  publish = "public"
+  command = ""
